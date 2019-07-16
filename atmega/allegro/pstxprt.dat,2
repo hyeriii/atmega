@@ -1,0 +1,30 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Jul-16-2019 at 17:32:09 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ATMEGA';
+ POST_TIME='Apr 28 2014 16:45:46';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ IC1 'ATMEGA168-TQ32_0_ATMEGA128_ATME':;
+
+SECTION_NUMBER 1
+ '@ATMEGA.SCHEMATIC1(SCH_1):INS1549@ATMEGA.ATMEGA168-TQ32_0.NORMAL(CHIPS)':
+ C_PATH='@atmega.schematic1(sch_1):ins1549@atmega.\atmega168-tq32_0.normal\(chips)',
+ P_PATH='@atmega.schematic1(sch_1):page1_ins1549@atmega.\atmega168-tq32_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC2 'ATMEGA168-TQ32_0_TQFP32_ATMEGA1':;
+
+SECTION_NUMBER 1
+ '@ATMEGA.SCHEMATIC1(SCH_1):INS1625@ATMEGA.ATMEGA168-TQ32_0.NORMAL(CHIPS)':
+ C_PATH='@atmega.schematic1(sch_1):ins1625@atmega.\atmega168-tq32_0.normal\(chips)',
+ P_PATH='@atmega.schematic1(sch_1):page1_ins1625@atmega.\atmega168-tq32_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

@@ -1,0 +1,275 @@
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Tue Jul 16 17:09:34 2019
+\t (00:00:03)         Host=USER-PC User=user Pid=7464 CPUs=4
+\t (00:00:03) CmdLine= allegro.exe -p .
+\t (00:00:03) 
+   (00:00:03) ilinit Start.
+   (00:00:03) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 1627
+\i (00:00:04) trapsize 1598
+\i (00:00:04) trapsize 1632
+\i (00:00:05) trapsize 1442
+\i (00:00:05) trapsize 2986
+\i (00:00:05) generaledit 
+\i (00:00:11) place manual 
+\i (00:00:13) setwindow form.plc_manual
+\i (00:00:13) FORM plc_manual advanced_settings  
+\i (00:00:13) FORM plc_manual library YES 
+\i (00:00:16) FORM plc_manual placement_list  
+\i (00:00:19) FORM plc_manual categories Package symbols 
+\i (00:00:20) FORM plc_manual tree  ATMEGA128 'Package symbols' 
+\i (00:00:22) FORM plc_manual tree  ATMEGA328 'Package symbols' 
+\i (00:00:22) FORM plc_manual tree  ATMEGA128 'Package symbols' 
+\i (00:00:23) FORM plc_manual tree 'MULTISEL YES' ATMEGA128 'Package symbols' 
+\w (00:00:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:24) setwindow pcb
+\i (00:00:24) pick grid 310.561 311.159
+\t (00:00:24) last pick:  309.880 312.420
+\i (00:00:26) setwindow form.plc_manual
+\i (00:00:26) FORM plc_manual done  
+\i (00:00:26) setwindow pcb
+\i (00:00:26) generaledit 
+\i (00:00:28) pick grid 311.756 308.770
+\t (00:00:28) last pick:  312.420 309.880
+\i (00:00:28) pick grid dbl 311.756 308.770
+\t (00:00:28) last pick:  312.420 309.880
+\i (00:00:29) pick grid 311.756 308.770
+\t (00:00:29) last pick:  312.420 309.880
+\i (00:00:29) pick grid dbl 311.756 308.770
+\t (00:00:29) last pick:  312.420 309.880
+\i (00:00:30) pick grid 311.756 308.770
+\t (00:00:30) last pick:  312.420 309.880
+\i (00:00:30) pick grid dbl 311.756 308.770
+\t (00:00:30) last pick:  312.420 309.880
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 294.436 308.770
+\i (00:00:31) trapsize 1493
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 147.218 307.277
+\i (00:00:31) trapsize 747
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 148.114 305.635
+\i (00:00:31) trapsize 373
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 229.861 295.631
+\i (00:00:32) trapsize 747
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 193.952 305.187
+\i (00:00:32) trapsize 1493
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 381.932 306.680
+\i (00:00:33) trapsize 2986
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 751.320 265.172
+\i (00:00:33) trapsize 2986
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 740.570 272.338
+\i (00:00:33) trapsize 2986
+\i (00:00:33) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 314.145 308.172
+\i (00:00:34) trapsize 1493
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 321.610 306.679
+\i (00:00:34) trapsize 747
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 312.801 307.128
+\i (00:00:35) trapsize 373
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 312.428 307.128
+\i (00:00:35) trapsize 187
+\i (00:00:36) pick grid 312.167 307.875
+\t (00:00:36) last pick:  312.420 307.340
+\i (00:00:36) pick grid dbl 312.167 307.875
+\t (00:00:36) last pick:  312.420 307.340
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 323.626 307.277
+\i (00:00:37) trapsize 93
+\i (00:00:37) pick grid 323.570 307.278
+\t (00:00:37) last pick:  322.580 307.340
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 319.296 308.827
+\i (00:00:38) trapsize 47
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 319.277 308.827
+\i (00:00:38) trapsize 93
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 319.203 308.772
+\i (00:00:39) trapsize 187
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 316.589 308.660
+\i (00:00:39) trapsize 93
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 316.589 308.660
+\i (00:00:39) trapsize 187
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 316.589 308.660
+\i (00:00:40) trapsize 373
+\i (00:00:41) roam start
+\i (00:00:41) roam y 32
+\i (00:00:41) roam y 64
+\i (00:00:41) roam y 80
+\i (00:00:41) roam y 64
+\i (00:00:41) roam y 32
+\i (00:00:41) roam y 32
+\i (00:00:41) roam y 16
+\i (00:00:41) roam y -80
+\i (00:00:41) roam y -96
+\i (00:00:42) roam y -96
+\i (00:00:42) roam y -64
+\i (00:00:42) roam y -64
+\i (00:00:42) roam x -16
+\i (00:00:42) roam y -64
+\i (00:00:42) roam y -32
+\i (00:00:42) roam y -16
+\i (00:00:42) roam end
+\i (00:00:43) pick grid 328.933 312.284
+\t (00:00:43) last pick:  330.200 312.420
+\i (00:00:49) pick grid 270.254 312.882
+\t (00:00:49) last pick:  269.240 312.420
+\i (00:00:53) pick grid 272.344 323.483
+\t (00:00:53) last pick:  271.780 322.580
+\i (00:00:59) pick grid 245.842 322.587
+\t (00:00:59) last pick:  246.380 322.580
+\i (00:01:02) pick grid 279.362 321.542
+\t (00:01:02) last pick:  279.400 322.580
+\i (00:01:07) prmed 
+\i (00:01:08) setwindow form.prmedit
+\i (00:01:08) FORM prmedit display_plated_holes YES 
+\i (00:01:08) FORM prmedit display_non_plated_holes YES 
+\i (00:01:09) FORM prmedit display_thermal YES 
+\i (00:01:10) FORM prmedit display_fat_rats YES 
+\i (00:01:10) FORM prmedit waived_drc_on YES 
+\i (00:01:10) FORM prmedit via_labels YES 
+\i (00:01:11) FORM prmedit dp_driver_pins YES 
+\i (00:01:11) FORM prmedit secondary_step_model YES 
+\i (00:01:15) FORM prmedit design  
+\i (00:01:16) FORM prmedit done  
+\i (00:01:16) setwindow pcb
+\i (00:01:16) generaledit 
+\i (00:01:17) pick grid 304.073 315.644
+\t (00:01:17) last pick:  304.800 314.960
+\i (00:01:17) pick grid dbl 304.073 315.644
+\t (00:01:17) last pick:  304.800 314.960
+\i (00:01:18) pick grid 336.921 314.599
+\t (00:01:18) last pick:  337.820 314.960
+\i (00:01:25) enved 
+\i (00:01:26) generaledit 
+\i (00:01:28) setwindow form.prfedit
+\i (00:01:28) FORM prfedit treelist  Placement 
+\i (00:01:29) FORM prfedit treelist  Paths 
+\i (00:01:30) FORM prfedit treelist  Library Paths 
+\i (00:01:32) FORM prfedit padpath  
+\i (00:01:35) FORM prfedit padpath  
+\i (00:01:38) FORM prfedit treelist  File_management 
+\i (00:01:42) FORM prfedit treelist  Autosave File_management 
+\i (00:01:43) FORM prfedit treelist  Journals File_management 
+\i (00:01:43) FORM prfedit treelist  Locking File_management 
+\i (00:01:44) FORM prfedit treelist  Output_dir File_management 
+\i (00:01:45) FORM prfedit treelist  Temp_files File_management 
+\i (00:01:46) FORM prfedit treelist  Versioning File_management 
+\i (00:01:48) FORM prfedit treelist  Temp_files File_management 
+\i (00:01:51) FORM prfedit treelist  Versioning File_management 
+\i (00:01:52) FORM prfedit treelist  Locking File_management 
+\i (00:01:53) FORM prfedit treelist  Journals File_management 
+\i (00:01:54) FORM prfedit treelist  Autosave File_management 
+\i (00:01:57) FORM prfedit cancel  
+\i (00:01:57) setwindow pcb
+\i (00:01:57) pick grid 311.315 311.762
+\t (00:01:57) last pick:  312.420 312.420
+\i (00:01:57) pick grid dbl 311.315 311.762
+\t (00:01:57) last pick:  312.420 312.420
+\i (00:01:58) pick grid 329.531 312.135
+\t (00:01:58) last pick:  330.200 312.420
+\i (00:02:04) pick grid 313.256 311.986
+\t (00:02:04) last pick:  312.420 312.420
+\i (00:02:04) pick grid dbl 313.256 311.986
+\t (00:02:04) last pick:  312.420 312.420
+\i (00:02:04) pick grid 329.978 311.986
+\t (00:02:04) last pick:  330.200 312.420
+\i (00:02:12) pick grid 266.073 314.151
+\t (00:02:12) last pick:  266.700 314.960
+\i (00:02:14) pick grid 311.240 309.373
+\t (00:02:14) last pick:  312.420 309.880
+\i (00:02:14) pick grid 311.016 309.373
+\t (00:02:14) last pick:  309.880 309.880
+\i (00:02:15) pick grid 311.016 309.373
+\t (00:02:15) last pick:  309.880 309.880
+\i (00:02:15) pick grid dbl 311.016 309.373
+\t (00:02:15) last pick:  309.880 309.880
+\i (00:02:20) pick grid 312.882 310.269
+\t (00:02:20) last pick:  312.420 309.880
+\i (00:02:20) pick grid dbl 312.882 310.269
+\t (00:02:20) last pick:  312.420 309.880
+\i (00:02:21) pick grid 312.882 310.269
+\t (00:02:21) last pick:  312.420 309.880
+\i (00:02:21) pick grid dbl 312.882 310.269
+\t (00:02:21) last pick:  312.420 309.880
+\i (00:02:22) pick grid 313.181 310.791
+\t (00:02:22) last pick:  312.420 309.880
+\i (00:02:22) pick grid dbl 313.181 310.791
+\t (00:02:22) last pick:  312.420 309.880
+\i (00:02:22) pick grid 313.181 310.791
+\t (00:02:22) last pick:  312.420 309.880
+\i (00:02:22) pick grid dbl 313.181 310.791
+\t (00:02:22) last pick:  312.420 309.880
+\i (00:02:23) pick grid 313.256 310.791
+\t (00:02:23) last pick:  312.420 309.880
+\i (00:02:23) pick grid dbl 313.256 310.791
+\t (00:02:23) last pick:  312.420 309.880
+\i (00:02:24) pick grid 313.256 310.791
+\t (00:02:24) last pick:  312.420 309.880
+\i (00:02:25) pick grid dbl 313.256 310.791
+\t (00:02:25) last pick:  312.420 309.880
+\i (00:02:26) pick grid 331.770 308.776
+\t (00:02:26) last pick:  332.740 309.880
+\i (00:02:26) pick grid dbl 331.770 308.776
+\t (00:02:26) last pick:  332.740 309.880
+\i (00:02:32) pick grid 309.821 310.791
+\t (00:02:32) last pick:  309.880 309.880
+\i (00:02:32) pick grid dbl 309.821 310.791
+\t (00:02:32) last pick:  309.880 309.880
+\i (00:02:33) pick grid 312.509 310.343
+\t (00:02:33) last pick:  312.420 309.880
+\i (00:02:34) pick grid dbl 312.509 310.343
+\t (00:02:34) last pick:  312.420 309.880
+\i (00:02:37) pick grid 312.658 310.194
+\t (00:02:37) last pick:  312.420 309.880
+\i (00:02:37) pick grid dbl 312.658 310.194
+\t (00:02:37) last pick:  312.420 309.880
+\i (00:02:38) pick grid 336.697 308.552
+\t (00:02:38) last pick:  337.820 307.340
+\i (00:02:38) show element 
+\i (00:02:39) pick grid 311.912 307.506
+\t (00:02:39) last pick:  312.420 307.340
+\i (00:02:46) setwindow text
+\i (00:02:46) close 
+\i (00:25:05) setwindow pcb
+\i (00:25:05) pick grid 305.491 311.911
+\t (00:25:05) last pick:  304.800 312.420
+\i (00:25:06) setwindow text
+\i (00:25:06) close 
+\i (00:25:08) setwindow pcb
+\i (00:25:08) exit 
+\e (00:25:08) Do you want to save the changes you made to unnamed.brd?
+\i (00:25:09) fillin no 
+\t (00:25:09)     Journal end - Tue Jul 16 17:34:40 2019

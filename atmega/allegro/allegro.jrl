@@ -1,0 +1,101 @@
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Tue Jul 16 17:35:14 2019
+\t (00:00:03)         Host=USER-PC User=user Pid=6408 CPUs=4
+\t (00:00:03) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\EX\MY_LIBS\ATMEGA\allegro\ATMEGA.brd
+\t (00:00:03) 
+   (00:00:03) ilinit Start.
+   (00:00:03) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/USERS/USER/DESKTOP/EX/MY_LIBS/ATMEGA/allegro/ATMEGA.brd
+\i (00:00:04) trapsize 10372
+\i (00:00:04) trapsize 10186
+\i (00:00:04) trapsize 10404
+\i (00:00:05) trapsize 9189
+\i (00:00:05) trapsize 13682
+\i (00:00:05) generaledit 
+\i (00:00:08) place manual 
+\i (00:00:09) setwindow form.plc_manual
+\i (00:00:09) FORM plc_manual tree  IC1 'Components by refdes' 
+\i (00:00:09) FORM plc_manual tree 'MULTISEL YES' IC1 'Components by refdes' 
+\w (00:00:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:10) Placing IC1 / ATMEGA168-TQ32_0_ATMEGA328_ATME / ATMEGA328 on Top.
+\i (00:00:10) FORM plc_manual advanced_settings  
+\i (00:00:11) FORM plc_manual library YES 
+\i (00:00:12) FORM plc_manual placement_list  
+\i (00:00:13) FORM plc_manual tree 'MULTISEL YES' IC1 'Components by refdes' 
+\w (00:00:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:13) Placing IC1 / ATMEGA168-TQ32_0_ATMEGA328_ATME / ATMEGA328 on Top.
+\i (00:00:13) FORM plc_manual tree  IC1 'Components by refdes' 
+\i (00:00:13) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\i (00:00:13) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:00:14) FORM plc_manual hide  
+\i (00:00:14) setwindow pcb
+\i (00:00:14) pick grid 11246.27 12340.80
+\t (00:00:14) last pick:  11200.00 12300.00
+\w (00:00:14) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:14) Placing IC2 / ATMEGA168-TQ32_0_TQFP32_ATMEGA1 / TQFP32 on Top.
+\i (00:00:15) pick grid 13298.51 12340.80
+\t (00:00:15) last pick:  13300.00 12300.00
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 10972.64 12313.43
+\i (00:00:16) trapsize 6841
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 10972.64 12313.44
+\i (00:00:17) trapsize 3420
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 10972.64 12313.44
+\i (00:00:17) trapsize 1710
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 10972.64 12313.44
+\i (00:00:17) trapsize 855
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 10972.64 12313.44
+\i (00:00:17) trapsize 428
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 11262.52 12288.65
+\i (00:00:17) trapsize 855
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 11262.53 12285.22
+\i (00:00:18) trapsize 1710
+\i (00:00:19) pick grid 13321.61 12319.43
+\t (00:00:19) last pick:  13300.00 12300.00
+\t (00:00:19) Moving IC2 / ATMEGA168-TQ32_0_TQFP32_ATMEGA1 / TQFP32.
+\t (00:00:19) last pick:  13300.00 12300.00
+\i (00:00:21) pick grid 11980.81 12251.02
+\t (00:00:21) last pick:  12000.00 12300.00
+\i (00:00:22) pick grid 13407.12 12069.74
+\t (00:00:22) last pick:  13400.00 12100.00
+\i (00:01:25) pick grid 9049.53 13266.88
+\t (00:01:25) last pick:  9000.00 13300.00
+\i (00:01:28) pick grid 10246.67 12931.68
+\t (00:01:28) last pick:  10200.00 12900.00
+\i (00:01:35) zoom in 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom in 11758.48 12227.08
+\i (00:01:35) trapsize 855
+\i (00:01:36) zoom in 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom in 11972.26 12177.48
+\i (00:01:36) trapsize 428
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 11979.95 12174.92
+\i (00:01:37) trapsize 855
+\i (00:01:38) pick grid 12614.45 12257.00
+\t (00:01:38) last pick:  12600.00 12300.00
+\i (00:02:43) pick grid 10646.01 12681.13
+\t (00:02:43) last pick:  10600.00 12700.00
+\i (00:02:44) save 
+\i (00:02:46) fillin yes 
+\i (00:02:46) generaledit 
+\i (00:11:25) exit 
+\e (00:11:25) Do you want to save the changes you made to C:/USERS/USER/DESKTOP/EX/MY_LIBS/ATMEGA/allegro/ATMEGA.brd?
+\i (00:11:26) fillin yes 
+\t (00:11:29)     Journal end - Tue Jul 16 17:46:40 2019

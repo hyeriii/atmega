@@ -1,0 +1,56 @@
+\t (00:00:19) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:19)     Journal start - Tue Jul 16 17:14:59 2019
+\t (00:00:19)         Host=USER-PC User=user Pid=5748 CPUs=4
+\t (00:00:19) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\EX\MY_LIBS\ATMEGA\allegro\ATMEGA.brd
+\t (00:00:19) 
+   (00:00:19) ilinit Start.
+   (00:00:19) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:19) Opening existing design...
+\d (00:00:19) Design opened: C:/USERS/USER/DESKTOP/EX/MY_LIBS/ATMEGA/allegro/ATMEGA.brd
+\i (00:00:20) trapsize 10372
+\i (00:00:20) trapsize 10186
+\i (00:00:20) trapsize 10404
+\i (00:00:20) trapsize 10599
+\i (00:00:20) trapsize 9189
+\i (00:00:20) trapsize 13682
+\i (00:00:20) generaledit 
+\i (00:00:24) drag_start grid 9221.39 19126.87
+\i (00:00:24) drag_stop 15542.29 12504.97
+\i (00:00:29) place manual 
+\i (00:00:31) setwindow form.plc_manual
+\i (00:00:31) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:32) FORM plc_manual tree  U1 'Components by refdes' 
+\i (00:00:34) FORM plc_manual advanced_settings  
+\i (00:00:35) FORM plc_manual library YES 
+\i (00:00:35) FORM plc_manual placement_list  
+\i (00:00:37) FORM plc_manual categories Package symbols 
+\i (00:00:39) FORM plc_manual tree  ATMEGA128 'Package symbols' 
+\i (00:00:39) FORM plc_manual tree  ATMEGA328 'Package symbols' 
+\i (00:00:39) FORM plc_manual tree  ATMEGA128 'Package symbols' 
+\i (00:01:26) FORM plc_manual advanced_settings  
+\i (00:01:27) FORM plc_manual placement_list  
+\i (00:01:29) FORM plc_manual categories Components by refdes 
+\i (00:01:30) FORM plc_manual tree  U1 'Components by refdes' 
+\i (00:01:33) FORM plc_manual categories Package symbols 
+\i (00:01:36) FORM plc_manual categories Format symbols 
+\i (00:01:38) FORM plc_manual categories Components by refdes 
+\i (00:01:40) FORM plc_manual categories Components by net group 
+\i (00:01:42) FORM plc_manual categories Components by refdes 
+\i (00:01:42) FORM plc_manual tree  'Components by refdes' 
+\i (00:01:48) FORM plc_manual advanced_settings  
+\i (00:01:50) FORM plc_manual placement_list  
+\i (00:01:52) FORM plc_manual cancel  
+\i (00:01:52) setwindow pcb
+\i (00:01:52) generaledit 
+\i (00:01:52) drag_start grid 7223.88 4542.29
+\i (00:01:52) drag_stop 10014.93 328.36
+\i (00:01:53) pick grid 16992.54 6485.07
+\t (00:01:53) last pick:  17000.00 6500.00
+\i (00:19:59) xhilite 
+\i (00:19:59) xname_flush 
+\i (00:19:59) done 
+\i (00:19:59) generaledit 
+\i (00:20:04) exit 
+\e (00:20:04) Do you want to save the changes you made to ATMEGA.brd?
+\i (00:20:05) fillin no 
+\t (00:20:07)     Journal end - Tue Jul 16 17:34:47 2019
